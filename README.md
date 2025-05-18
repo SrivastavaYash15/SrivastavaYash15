@@ -1,5 +1,5 @@
 #  About Me:
-My name is Yash Srivastava, a postgraduate student specializing in Artificial Intelligence.<br>I have hands-on experience in NLP, Generative AI, and cloud-based solutions using AWS services.<br>My projects include building an LLM-powered grant eligibility system and an OCR-based reading assistant.<br>I'm passionate about creating impactful, real-world AI applications that enhance accessibility and automation.
+My name is Yash Srivastava, a postgraduate student specializing in Artificial Intelligence.<br>I have hands-on experience in NLP, Generative AI, and cloud-based solutions using AWS services.<br><br>I'm passionate about creating impactful, real-world AI applications that enhance accessibility and automation.
 
 
 ##  Socials:
